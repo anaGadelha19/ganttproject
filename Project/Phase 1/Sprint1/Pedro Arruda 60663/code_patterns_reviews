@@ -7,3 +7,7 @@ It's a good example of a singleton where myChartComponentImpl is only initiated 
 Facade--> reviewd by Martim Costa 64901 21/10/22
 
 Good example and explanation. Great work!
+-------------------------------------------------------------------------------------------------------------
+Adapter --> Reviewed by Ana Gadelha 59943
+
+Good catch, it is a good example of an Adapter pattern.

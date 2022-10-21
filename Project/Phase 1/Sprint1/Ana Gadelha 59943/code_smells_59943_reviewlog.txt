@@ -10,4 +10,5 @@ Definitely too many unnecessary comments and a good explanation of why it is a b
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Dead code --> reviewed by Martim Costa 64901 -21/10/22
-Its is a dead code indeed, it's never used. Good catch.
+
+It is a dead code indeed, it's never used. Good catch.

@@ -1,0 +1,10 @@
+No comments --> reviewed by Pedro Arruda 60663 - 21/10
+
+In fact this class is really big and by having no comments at all it becomes really hard to understand, good catch.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Dead Code --> Reviewed by Ana Gadelha 59943 - 21/10/2022
+
+Good identification it is indeed a case of dead code, the class is never used and the explanation is also great.
+
+---------------------------------------------------------------------------------------------------------------------------------
