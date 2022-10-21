@@ -6,3 +6,6 @@ Excessively long identifiers by Rodrigo Mesquita 57372 - 21/10/2022
 
 The identifiers are in fact very long, and I think your suggestion would solve the problem!
 ------------------------------------------------------------------------------------------------------------
+Constructor with too many arguments by Rodrigo Mesquita 57372 - 21/10/2022
+
+That's actually too many arguments to keep track for a constructor. Great sugestion.
