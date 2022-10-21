@@ -1,0 +1,3 @@
+Singleton reviewed by Bernardo Carvalho 60012 - 21/10/2022
+
+A great found of a singleton with the protected constructor and if condition, nice one!
