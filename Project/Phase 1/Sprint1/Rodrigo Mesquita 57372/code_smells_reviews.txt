@@ -8,3 +8,6 @@ Dead Code --> Reviewed by Ana Gadelha 59943 - 21/10/2022
 Good identification it is indeed a case of dead code, the class is never used and the explanation is also great.
 
 ---------------------------------------------------------------------------------------------------------------------------------
+Large Class --> Reviewed by Martim Costa 64901 -21/10/2022
+
+Its is indeed a large class. It should be considered the sugestion to improve it.
