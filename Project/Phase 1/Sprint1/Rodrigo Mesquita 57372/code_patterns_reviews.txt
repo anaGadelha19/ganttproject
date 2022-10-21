@@ -1,0 +1,11 @@
+Singleton --> reviewed by Pedro Arruda 60663 - 21/10
+
+It is indeed a Singleton, not only because that is the only instance in the class but because the class makes sure another instance of the object is not possible, 
+while giving a global access to it
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Facade --> Reviewed by Ana Gadelha 59943
+
+I agree it is a good example of a Facade pattern and the explanation is simple and clear.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
