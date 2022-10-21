@@ -12,4 +12,7 @@ Singleton --> reviewed by Martim Costa 64901 -21/10/22
 
 Perfect example of a singleton. Simple and good explanation of what a singleton is.
 
------------------------------------------------------------------------------- 
+------------------------------------------------------------------------------
+Factory Method --> reviewed by Rodrigo Mesquita 21/10/2022
+
+It is a small case for a Factory Method, but it definitely is one. Good catch!
