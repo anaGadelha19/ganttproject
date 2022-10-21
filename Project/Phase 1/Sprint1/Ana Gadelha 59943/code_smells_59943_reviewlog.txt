@@ -1,0 +1,4 @@
+ Constructor with too many arguments --> reviewed by Bernardo Carvalho 60012 - 21/10/2022
+ 
+A well spotted code smell which I'm inclined to agree with, the constructor does have too many arguments and I found the solution given quite a good one. Good work!
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
