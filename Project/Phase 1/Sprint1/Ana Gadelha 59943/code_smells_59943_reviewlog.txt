@@ -1,0 +1,13 @@
+Constructor with too many arguments --> reviewed by Bernardo Carvalho 60012 - 21/10/2022
+ 
+A well spotted code smell which I'm inclined to agree with, the constructor does have too many arguments and I found the solution given quite a good one. Good work!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Unnecessary comments --> reviewed by Pedro Arruda 60663 - 21/10
+
+Definitely too many unnecessary comments and a good explanation of why it is a bad habit and what should be done to fix it is presented.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dead code --> reviewed by Martim Costa 64901 -21/10/22
+Its is a dead code indeed, it's never used. Good catch.

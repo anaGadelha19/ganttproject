@@ -7,3 +7,7 @@ Massive Method --> Reviewed by Ana Gadelha 59943 - 21/10/2022
 
 I agree, a method with 93 lines is too big, and the suggestion to solve it is also suitable.
 --------------------------------------------------------------------------------------------------------------------------------------------
+Large class --> Reviewed by Martim Costa 64901 - 21/10/22
+
+A class with 400 lines it is a class with a considerable size. 
+It would be better to spread it between smaller classes.
