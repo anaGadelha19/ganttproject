@@ -1,1 +1,11 @@
 
+Dead code review by Bernardo Carvalho 60012 - 21/10/2022
+
+This was a good find since a whole class without function is a lot of unnecessary code! Good job.
+------------------------------------------------------------------------------------------------
+
+No Comments -> Review by Ana Gadelha 59943 - 21/10/2022
+
+This code is well identified, the class is still big (142 lines of code),
+and with no comments it will take a lot more time to understand its functionality.
+-------------------------------------------------------------------------------------------------
