@@ -6,3 +6,6 @@ Facade --> Reviewed by Ana Gadelha 59943
 
 It is a very well identified Facade pattern, and the justification is clear. Good work!
 --------------------------------------------------------------------------------------------
+Proxy --> Reviewed by Rodrigo Mesquita 57372
+
+I agree with you, that is a Proxy pattern. Good justification as well.
