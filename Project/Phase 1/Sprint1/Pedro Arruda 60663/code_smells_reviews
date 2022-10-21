@@ -9,3 +9,7 @@ No Comments -> Review by Ana Gadelha 59943 - 21/10/2022
 This code is well identified, the class is still big (142 lines of code),
 and with no comments it will take a lot more time to understand its functionality.
 -------------------------------------------------------------------------------------------------
+
+Really large class --> Reviewed by Martim Costa 64901 21/10/22
+
+Its is really a big class. Good example of code smell caught by my colleague and good sugestion on how to fix it.

@@ -3,3 +3,7 @@ Singleton reviewed by Bernardo Carvalho 60012 - 21/10/2022
 
 It's a good example of a singleton where myChartComponentImpl is only initiated on its get method, good work!
 -------------------------------------------------------------------------------------------------------------
+
+Facade--> reviewd by Martim Costa 64901 21/10/22
+
+Good example and explanation. Great work!
