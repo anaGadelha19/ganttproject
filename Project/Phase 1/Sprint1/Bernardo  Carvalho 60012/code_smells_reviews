@@ -11,3 +11,7 @@ Large class --> Reviewed by Martim Costa 64901 - 21/10/22
 
 A class with 400 lines it is a class with a considerable size. 
 It would be better to spread it between smaller classes.
+--------------------------------------------------------------------------------------------------------------------------------------------
+Large Class --> Reviewed by Rodrigo Mesquita 57372 - 21/10/2022
+
+A class that long really is exhaustive to understand. Your suggestion would work just fine.
