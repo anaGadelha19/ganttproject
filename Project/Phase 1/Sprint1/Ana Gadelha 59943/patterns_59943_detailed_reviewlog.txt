@@ -1,0 +1,4 @@
+Factory Method --> reviewed by Bernardo Carvalho 60012 21/10/2022
+
+It is a good case of a Factory Method and well explained too, nice work!
+------------------------------------------------------------------------------
