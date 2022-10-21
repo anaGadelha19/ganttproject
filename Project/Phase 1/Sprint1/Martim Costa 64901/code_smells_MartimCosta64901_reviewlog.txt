@@ -1,0 +1,4 @@
+Huge function review by Bernardo Carvalho 60012 - 21/10/2022
+
+I agree that 88 lines for a function is a lot, furthermore the explanation and fix suggestion were on point!
+------------------------------------------------------------------------------------------------------------
