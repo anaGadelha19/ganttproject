@@ -1,5 +1,9 @@
-Unnecessary commentary --> reviewed by Pedro Arruda 60663 - 21/10
+Unnecessary commentary --> reviewed by Pedro Arruda 60663 - 21/10/2022
 
 Good identification of unnecessary commentary in the code but could perhaps be added a better explanation on why this is a bad habit.
+-------------------------------------------------------------------------------------------------------------------------------------------
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Massive Method --> Reviewed by Ana Gadelha 59943 - 21/10/2022
+
+I agree, a method with 93 lines is too big, and the suggestion to solve it is also suitable.
+--------------------------------------------------------------------------------------------------------------------------------------------
